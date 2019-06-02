@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+}
+
+h1.display-3 {
+    color: crimson;
+}
+
+.input-group input, .btn {
+    border-top-left-radius: 30rem;
+    border-top-right-radius: 30rem;
+    border-bottom-left-radius: 30rem;
+    border-bottom-right-radius: 30rem;
+}
+
+.input-group {
+    padding-top: 30px;
+}
+
+.row {
+    padding-bottom: 30px;
+}
+
+.text-attr {
+    color: white;
+    margin-left: 50px;
+    font-size: large;
+}
+
+.btn {
+    position: relative;
+    right: 15px;
+    padding-left: 20px;
+    background-color: crimson;
+    color: white;
+}

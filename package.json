@@ -1,0 +1,31 @@
+{
+  "name": "uflix",
+  "version": "1.0.0",
+  "description": "A video search application using youtube rest api",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "path": "^0.12.7",
+    "youtube-api-v3-search": "^1.2.1"
+  },
+  "engines": {
+    "node": "10.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ujjavaldesai07/uflix-app.git"
+  },
+  "author": "Ujjaval Desai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ujjavaldesai07/uflix-app/issues"
+  },
+  "homepage": "https://github.com/ujjavaldesai07/uflix-app#readme",
+  "keywords": ["node", "express", "youtube-api-v3-search"]
+}
