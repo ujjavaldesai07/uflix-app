@@ -1,12 +1,12 @@
 # uflix-app
-Build Video search application using youtube rest api.
+YouTube video search application using YouTube rest api, Javascript, jQuery and Nodejs.
 
 **DEMO**
  - Deployed to Heroku Cloud: 
  
  	https://uflix-app.herokuapp.com/
 	
-**Note:** Sometimes the above link takes time to load on the heroku server.
+**Note:** It is only running on a free dyno, so it may take some time before it responds.
 	
 **Features**
 1. The application is using the data from youtube rest api and display and play multiple videos at a time.
