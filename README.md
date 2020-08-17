@@ -1,5 +1,5 @@
 # uflix-app
-YouTube video search application using YouTube rest api, Javascript, jQuery and Nodejs.
+YouTube video search application using YouTube REST API, JavaScript, jQuery, and NodeJS.
 
 **DEMO**
  - Deployed to Heroku Cloud: 
